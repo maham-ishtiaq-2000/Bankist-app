@@ -9,6 +9,22 @@ An application built with HTML, CSS, Bootstrap, and JavaScript which allows user
     <img src="./BankistAppGIF.gif" alt="Alt Text">
 </div>
 
+## 🚀 Demo
+
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a>
+
+Try the application: https://maham-ishtiaq-2000.github.io/Bankist-app/
+
+You can try it using the following credentials:
+| UserName | Password | 
+| --------------- | --------------- | 
+| js   | 1111    | 
+| jd    | 2222    | 
+| stw    | 3333    | 
+
+
 ## 🛠️ Installation Steps
 
 1. Clone the repository
@@ -43,4 +59,8 @@ npx index.html
 During my sixth semester at University, I undertook this one-week-long project aimed at leveraging the technologies I had learned thus far while also exploring new features. The primary goals of this project were to apply my knowledge of HTML, CSS, and JavaScript and incorporate Bootstrap to enhance the responsiveness of the application across different devices.
 
 ## 💻 Built with
+
+- [HTML](https://www.gatsbyjs.com/) for structure
+- [CSS](https://tailwindcss.com/) for styling
+- [JavaScript](https://greensock.com/gsap/) for adding functionality
 
