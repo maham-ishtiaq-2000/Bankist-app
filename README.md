@@ -54,10 +54,6 @@ npx index.html
 
 🌟 You are all set!
 
-## 🍰 Reflection
-
-During my sixth semester at University, I undertook this one-week-long project aimed at leveraging the technologies I had learned thus far while also exploring new features. The primary goals of this project were to apply my knowledge of HTML, CSS, and JavaScript and incorporate Bootstrap to enhance the responsiveness of the application across different devices.
-
 ## 💻 Built with
 
 - [HTML](https://www.gatsbyjs.com/) for structure
